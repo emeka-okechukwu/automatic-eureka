@@ -15,9 +15,9 @@ Research Hub is a platform that guides users looking to conduct research from fo
 2. Install XAMPP on your computer
 3. Open the XAMPP application and run server
 4. Start all stack services (Apache, MySQL, and ProFTPD)
-5. Navigate to the folder 'htdocs'
-  5.1 Windows: Pressing 'Explorer' button in Control Panel and choose the folder 'htdocs'
-  5.2 Mac: Under the tab 'Volumes', mount the volume and click the button 'Explore'. Finally, choose the folder 'htdocs'
+5. Navigate to the folder 'htdocs'.
+Windows: Pressing 'Explorer' button in Control Panel and choose the folder 'htdocs'
+Mac: Under the tab 'Volumes', mount the volume and click the button 'Explore'. Finally, choose the folder 'htdocs'
 6. Copy the folder 'Research Hub Code' and paste it inside the folder 'htdocs'
 7. Rename the folder 'Research Hub Code' to 'research-hub'
 8. Visit XAMPP IP address on preferred browser
@@ -25,7 +25,7 @@ Research Hub is a platform that guides users looking to conduct research from fo
 10. Click on 'Import' tab 
 11. Import the file 'research_hub.sql' to create the database and tables
 12. Type 'http://{your XAMPP IP address}/research-hub/' on browser to view the application
-13. 
+
 
 ### Please Note
 
@@ -55,5 +55,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Contact
 
-Emeka Okechukwu - chuks.egkedu@gmail.com<br>
+Emeka Okechukwu - chuks.egkedu@gmail.com
+
 Project Link: 
