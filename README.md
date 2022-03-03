@@ -44,8 +44,6 @@ Change it to
 
 ## Roadmap
 
-- [ ] Check if email address is already registered
-- [ ] Check for password strength
 - [ ] Allow users to upload and manage ther profile pictures
 - [ ] Autosave feature
 - [ ] Synchronous collaboration between researchers
@@ -57,4 +55,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Emeka Okechukwu - chuks.egkedu@gmail.com
 
-Project Link: 
+Project Link:
