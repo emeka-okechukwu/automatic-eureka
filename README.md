@@ -29,17 +29,15 @@ Research Hub is a platform that guides users looking to conduct research from fo
 
 ### Please Note
 
-You may have a different XAMPP IP address from the address used in this project.
-
-To fix this, kindly replace the IP addresses used in this project with your own.
+You may have a different XAMPP IP address from the address used in this project. To fix this, kindly replace the IP addresses used in this project with your own.
 
 For example, when activating your account during registration, this link will be sent to your email:
 
-'192.168.64.3/research-hub/actions/user_activate_email.php?.....'
+_'192.168.64.3/research-hub/actions/user_activate_email.php?.....'_
 
 Change it to
 
-'{your XAMPP IP address}/research-hub/actions/user_activate_email.php?.....'
+_'{your XAMPP IP address}/research-hub/actions/user_activate_email.php?.....'_
 
 
 ## Roadmap
