@@ -16,8 +16,8 @@ Research Hub is a platform that guides users looking to conduct research from fo
 3. Open the XAMPP application and run server
 4. Start all stack services (Apache, MySQL, and ProFTPD)
 5. Navigate to the folder 'htdocs'.
-    1. Windows: Pressing 'Explorer' button in Control Panel and choose the folder 'htdocs'
-    2. WMac: Under the tab 'Volumes', mount the volume and click the button 'Explore'. Finally, choose the folder 'htdocs'
+    i. Windows: Pressing 'Explorer' button in Control Panel and choose the folder 'htdocs'
+    ii. WMac: Under the tab 'Volumes', mount the volume and click the button 'Explore'. Finally, choose the folder 'htdocs'
 6. Copy the folder 'Research Hub Code' and paste it inside the folder 'htdocs'
 7. Rename the folder 'Research Hub Code' to 'research-hub'
 8. Visit XAMPP IP address on preferred browser
