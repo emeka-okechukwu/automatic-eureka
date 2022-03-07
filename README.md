@@ -45,6 +45,12 @@ Then paste it into your browser's address bar.
 - [ ] Allow users to upload and manage their profile pictures
 - [ ] Autosave feature
 - [ ] Synchronous collaboration between researchers
+- [ ] POPUP MAILER
+
+
+ADD FAQ WITH SAMPLE LOGIN
+
+
 
 ## Contributing
 
